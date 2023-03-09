@@ -53,7 +53,7 @@
     	        manualmente a un bucket del Google Cloud Storage exclusivamente para guardar los datos en crudo del scraping.
     	        
     	       -Se crearán los registros de navegación de los clientes en la web de compras utilizando Google Analytic, y los resultados serán
-		          enviados a un bucket en Google Cloud Storage.
+		enviados a un bucket en Google Cloud Storage.
     	       
   ### d) Limpieza y transformación de datos:
   
