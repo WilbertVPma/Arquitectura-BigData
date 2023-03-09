@@ -72,9 +72,9 @@
   
   	           1. Bases de datos de la empresa
   
-	             2. Beautifulsoup
+	           2. Beautifulsoup
 	       
-	             3. Google Colab
+	           3. Google Colab
   
                4. Google Cloud Platform:
                
